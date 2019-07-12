@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tanisha2398/Indecision_app.git"
+    "url": "git+https://github.com/tanisha2398/React_Boilerplate.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tanisha2398/Indecision_app/issues"
+    "url": "https://github.com/tanisha2398/React_Boilerplate/issues"
   },
-  "homepage": "https://github.com/tanisha2398/Indecision_app#readme",
+  "homepage": "https://github.com/tanisha2398/React_Boilerplate#readme",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
